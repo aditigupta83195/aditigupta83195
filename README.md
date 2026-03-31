@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 👋, i am Aditi Gupta 
+
+I am a student developer passionate about software engineering, data science, and building efficient systems.
+
+🎓 Academic Profile
+Branch: B.Tech Artificial Intelligence
+Year: First Year
+🚀 What I'm Learning
+
+I am currently focusing on mastering C++, data structures, and machine learning algorithms to eventually build high-performance, autonomous tools for quantitative finance.
 
 <!--
 **aditigupta83195/aditigupta83195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
